@@ -4,7 +4,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 
 useSeoMeta({
   title: "About",
-  description: "My about page",
+  description: "My about pageeeee",
   ogDescription: "Still about my about page",
   ogTitle: "About",
   ogImage: "/images/vite.svg",
