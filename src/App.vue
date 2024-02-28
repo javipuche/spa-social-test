@@ -13,7 +13,9 @@ useSeoMeta({
   ogDescription: "Still about my about page",
   ogTitle: "About",
   ogImage: "https://spa-social-test.vercel.app/test.jpeg",
-  twitterCard: "summary_large_image",
+  twitterDescription: "Still about my about page",
+  twitterTitle: "About",
+  twitterImage: "https://spa-social-test.vercel.app/test.jpeg",
 });
 </script>
 
