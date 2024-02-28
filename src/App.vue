@@ -1,5 +1,5 @@
 <script setup>
-import { useHead, useSeoMeta } from "unhead";
+import { useHead, useSeoMeta } from "@unhead/vue";
 import HelloWorld from "./components/HelloWorld.vue";
 
 useHead({

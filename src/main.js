@@ -1,8 +1,11 @@
 import { createApp } from "vue";
 import "./style.css";
 import App from "./App.vue";
-import { createHead } from "unhead";
+import { createHead } from "@unhead/vue";
 
-createHead();
+const app = createApp(App);
 
-createApp(App).mount("#app");
+const head = createHead();
+app.use(head);
+
+app.mount("#app");
