@@ -12,7 +12,7 @@ useSeoMeta({
   description: "My about pageeeeeee",
   ogDescription: "Still about my about page",
   ogTitle: "About",
-  ogImage: "http://localhost:5173/spa-social-test/test.jpeg",
+  ogImage: "https://spa-social-test.vercel.app/test.jpeg",
   twitterCard: "summary_large_image",
 });
 </script>
