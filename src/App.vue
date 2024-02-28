@@ -1,6 +1,11 @@
 <script setup>
-import { useSeoMeta } from "unhead";
+import { useHead, useSeoMeta } from "unhead";
 import HelloWorld from "./components/HelloWorld.vue";
+
+useHead({
+  title: "About",
+  description: "My about pageeeeeee",
+});
 
 useSeoMeta({
   title: "About",
