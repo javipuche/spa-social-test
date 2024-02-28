@@ -16,6 +16,7 @@ useSeoMeta({
   twitterDescription: "Still about my about page",
   twitterTitle: "About",
   twitterImage: "https://spa-social-test.vercel.app/test.jpeg",
+  twitterCard: "summary_large_image",
 });
 </script>
 
